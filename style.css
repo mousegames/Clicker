@@ -2,17 +2,17 @@ body {
     color: antiquewhite;
     background-color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    size: 100px;
+    size: 250;
 }
 
 button {
     color: black;
     background-color: antiquewhite ;
-    size: 100px;
+    size: 250;
 }
 
 input {
     background-color: antiquewhite;
     color: black;
-    size: 100px;
+    size: 250;
 }
