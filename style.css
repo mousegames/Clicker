@@ -1,5 +1,16 @@
 body {
+    color: antiquewhite;
     background-color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: antiquewhite;
+    size: 10px;
+}
+
+button {
+    color: black;
+    background-color: antiquewhite ;
+}
+
+input {
+    background-color: antiquewhite;
+    color: black;
 }
