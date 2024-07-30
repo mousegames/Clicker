@@ -6,17 +6,17 @@ body {
     color: antiquewhite;
     background-color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 380%;
+    font-size: 420%;
 }
 
 button {
-    font-size: 380%;
+    font-size: 200%;
     background-color: antiquewhite;
     color: black;
 }
 
 input {
-    font-size: 380%;
+    font-size: 200%;
     background-color: antiquewhite;
     color: black;
 }
