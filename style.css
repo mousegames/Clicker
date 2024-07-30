@@ -5,9 +5,8 @@ body {
     font-size: 250px;
 }
 
-body {
-    font-size: 250px;
-}
 button, input {
     font-size: 250px;
+    background-color: antiquewhite;
+    color: black;
 }
