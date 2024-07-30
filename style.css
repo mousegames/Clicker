@@ -5,7 +5,13 @@ body {
     font-size: 250px;
 }
 
-button, input {
+button {
+    font-size: 250px;
+    background-color: antiquewhite;
+    color: black;
+}
+
+input {
     font-size: 250px;
     background-color: antiquewhite;
     color: black;
