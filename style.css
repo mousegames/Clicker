@@ -8,11 +8,15 @@ body {
 button {
     color: black;
     background-color: antiquewhite ;
-    size: 250px;
+    font-size: 250px;
+    width: 500px;
+    height: 100px;
 }
 
 input {
     background-color: antiquewhite;
     color: black;
-    size: 250px;
+    font-size: 250px;
+    width: 500px;
+    height: 100px;
 }
