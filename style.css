@@ -5,18 +5,9 @@ body {
     font-size: 250px;
 }
 
-button {
-    color: black;
-    background-color: antiquewhite ;
-    font-size: 250px;
-    width: 500px;
-    height: 100px;
+body {
+    font-size: 24px; /* Adjust as needed */
 }
-
-input {
-    background-color: antiquewhite;
-    color: black;
-    font-size: 250px;
-    width: 500px;
-    height: 100px;
+button, input {
+    font-size: 24px; /* Adjust as needed */
 }
